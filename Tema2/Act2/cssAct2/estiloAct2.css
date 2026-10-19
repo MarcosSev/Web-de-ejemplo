@@ -1,0 +1,85 @@
+.li1 {
+  list-style-type: circle;
+}
+.ulsub1 {
+  list-style-type: square;
+}
+.table1 {
+  border-collapse: collapse;
+  background-color: rgb(0, 238, 255);
+  width: 100%;
+  text-align: center;
+  border-radius: 6px;
+}
+.liLetras {
+  list-style-type: lower-alpha;
+}
+.liLower {
+  list-style-type: lower-roman;
+}
+.liNone {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  background-color: rgb(128, 115, 103);
+  width: 80%;
+  padding: 25px;
+  margin-bottom: 10px;
+}
+.liLine1 {
+  background-color: rgb(21, 255, 0);
+  width: 12%;
+  padding: 20px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+.liLine2 {
+  background-color: rgb(253, 0, 0);
+  width: 12%;
+  padding: 20px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+.bodyAct2 {
+  border: 2px solid rgb(73, 106, 199);
+  margin-left: 10px;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.lista {
+  font-size: 30px;
+}
+.tabladiv1 {
+  border: 2px collapse rgb(73, 106, 199);
+  background-color: rgb(152, 174, 175, 0.95);
+  color: rgb(252, 252, 252);
+  padding: 20px;
+  padding-bottom: 15px;
+}
+.mark1 {
+  background-color: rgb(245, 131, 255);
+}
+.border1 {
+  border: 2px solid rgb(23, 139, 0);
+  font-size: large;
+}
+.mark2 {
+  font-style: italic;
+  font-size: larger;
+  background-color: rgb(255, 255, 255);
+}
+.tabladiv2 {
+  border: 2px collapse rgb(73, 106, 199);
+  background-color: rgb(223, 222, 191, 0.8);
+  color: rgb(0, 0, 0);
+  padding: 20px;
+}
+.body1 {
+  padding-left: 30px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  background-image: url("../img/controller.jfif");
+}
